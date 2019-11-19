@@ -22,6 +22,94 @@
 .App-link {
   color: #61dafb;
 }
+/*HEADER*/
+header{
+  background: linear-gradient(red, yellow);
+  height: 20vh;
+}
+.mainheader {
+  display: flex;
+  justify-content: space-between;
+}
+header h1 {
+  margin-right: 100px;
+  display: flex;
+  flex-flow: column;
+  margin-top: 44px;
+  font-size: 85px;
+}
+header img{
+  width: 300px;
+  height: 20vh;
+}
+/*HEADER*/
+#main-page{
+  background: url("https://toppng.com/public/uploads/preview/troll-large-smile-11549007312mpc2euadjn.png" );
+  height: 80vh;
+}
+/*FORM*/
+.meme-form{
+  text-align: center;
+}
+.meme-form button{
+  padding: 17px 50px;
+  background: linear-gradient(red, yellow);
+  font-size: 20px;
+  margin: 20px;
+}
+.meme-form input[type="text"]{
+  padding: 10px;
+  margin: 10px;
+  font-size: 26px;
+}
+/*FORM*/
+* {
+  box-sizing: border-box;
+}
+
+.meme {
+  margin: auto;
+  width: 450px;
+  background-size: 100%;
+  text-align: center;
+  position: relative;
+}
+
+.meme h2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 15px 0;
+  padding: 0 5px;
+  font-family: impact;
+  font-size: 2.5em;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 1px;
+  text-shadow:2px 2px 0 #000,
+  -2px -2px 0 #000,
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  0px 2px 0 #000,
+  2px 0px 0 #000,
+  0px -2px 0 #000,
+  -2px 0px 0 #000,
+  2px 2px 5px #000;
+}
+
+.meme .bottom {
+  bottom: 0;
+}
+
+.meme .top {
+  top: 0;
+}
+.meme img{
+  width: 100%;
+}
+.myImage{
+  position: relative;
+}
 
 @keyframes App-logo-spin {
   from {
