@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be58893f-1bd2-461f-b3f1-96e20c8250aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="be58893f-1bd2-461f-b3f1-96e20c8250aa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,7 @@
       <workItem from="1564558420184" duration="4469000" />
       <workItem from="1565001770193" duration="33000" />
       <workItem from="1574180448366" duration="1244000" />
-      <workItem from="1575881988850" duration="69000" />
+      <workItem from="1575881988850" duration="193000" />
     </task>
     <servers />
   </component>
